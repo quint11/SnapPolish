@@ -750,7 +750,7 @@
                                 className: "flex items-center space-x-1.5 justify-center text-small",
                                 children: [(0, r.jsxs)("span", {
                                     children: ["Create by ", (0, r.jsx)(a.O, {
-                                        href: "https://quint11.online",
+                                        href: "https://github.com/quint11/SnapPolish",
                                         children: "@quintus"
                                     })]
                                 })]
