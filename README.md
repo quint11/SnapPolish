@@ -20,13 +20,6 @@ SnapPolish 是一个简单易用的截图美化工具，帮助你快速创建专
 4. 自定义调整效果
 5. 下载美化后的图片
 
-## 🛠️ 技术栈
-
-- Next.js
-- React
-- TailwindCSS
-- TypeScript
-
 ## 📝 使用说明
 
 1. **上传图片**
