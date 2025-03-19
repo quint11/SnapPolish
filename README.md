@@ -1,5 +1,7 @@
 # SnapPolish
 
+![SnapPolish UI](./static/media/ui.png)
+
 让你的截图看起来很棒 快速 且 简单
 
 ## 项目简介
